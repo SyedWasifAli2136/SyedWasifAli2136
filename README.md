@@ -67,7 +67,7 @@ I'm an AI Engineer with **2.5 years of experience** shipping production-grade AI
 
 ## GitHub Stats
 
-![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedWasifAli2136&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SyedWasifAli2136&hide_border=true)
 
 ---
 
