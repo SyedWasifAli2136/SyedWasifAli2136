@@ -2,9 +2,9 @@
 
 **AI Engineer** · Building production-grade AI systems at scale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/syed-wasif-ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-wasif-ali-178032220)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedwasifali2136@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel)](https://ai-portfolio-ync3.onrender.com/)
 
 ---
 
